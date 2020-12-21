@@ -1,0 +1,49 @@
+<< Final state of system:
+  Current Available Main Memory = 240
+  Current Devices               = 0
+  Completed jobs: 
+  ----------------
+  Job ID   Arrival Time    Finish Time  Turnaround Time 
+  =================================================================
+   1            1                  11             10
+   2            2                  28             26
+   3            3                  26             23
+   4            5                  30             25
+   6            9                  42             33
+   5            7                  38             31
+   7           10                  32             22
+  10           20                  45             25
+  11           26                  65             39
+  12           45                  83             38
+  13           58                  73             15
+
+  System Turnaround Time =  26.09090909090909
+
+*********************************************************************
+
+<< Final state of system:
+  Current Available Main Memory = 76
+  Current Devices               = 0
+  Completed jobs: 
+  ----------------
+  Job ID   Arrival Time    Finish Time  Turnaround Time 
+  =================================================================
+   1            2                  18             16
+   2            3                  27             24
+   3            4                  24             20
+   4            6                  25             19
+   5            9                  28             19
+   6           12                  49             37
+   7           15                  64             49
+   8           17                  60             43
+  10           22                  62             40
+  11           24                  77             53
+  12           27                  95             68
+  13           29                  91             62
+  14           33                  87             54
+  15           35                  65             30
+
+  System Turnaround Time =  38.142857142857146
+
+*********************************************************************
+
